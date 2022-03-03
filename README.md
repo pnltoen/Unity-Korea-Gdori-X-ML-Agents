@@ -1,6 +1,7 @@
 # Gdori X ML-Agents
 
 Unity ML-Agents를 사용할 수 있도록, Unity 2D Platformer 내부 코드를 수정한 버전입니다.
+MDP 설정과 관련된 코드는 직접 작성하셔야 합니다.
 
 권장 소프트웨어 버전
 
@@ -11,6 +12,10 @@ Unity ML-Agents를 사용할 수 있도록, Unity 2D Platformer 내부 코드를
 
 - 코드 다운로드 (git clone https://github.com/pnltoen/Unity-Korea-Gdori-X-ML-Agents.git 또는 Download ZIP)
 - Unity Editor - Assets - Scripts에 붙여넣기 후 덮어쓰기
+
+# 하이퍼 파라미터 추가 (2022.03.03)
+
+**configuration.yaml** 파일 참고, MDP 설정에 따라 달라질 수 있습니다.
 
 ## License
 
