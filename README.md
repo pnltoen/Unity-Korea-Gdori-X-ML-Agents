@@ -10,7 +10,7 @@ Unity ML-Agents를 사용할 수 있도록, Unity 2D Platformer 내부 코드를
 # 사용법
 
 - 코드 다운로드 (git clone https://github.com/pnltoen/Unity-Korea-Gdori-X-ML-Agents.git 또는 Download ZIP)
-- Unity Editor - Assets - Scripts에 붙여넣기
+- Unity Editor - Assets - Scripts에 붙여넣기 후 덮어쓰기
 
 ## License
 
